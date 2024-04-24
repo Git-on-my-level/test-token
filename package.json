@@ -1,0 +1,26 @@
+{
+  "name": "erc20-hardhat-template",
+  "version": "1.0.0",
+  "description": "ERC20 template using Hardhat",
+  "repository": "git@github.com:Git-on-my-level/erc20-hardhat-template.git",
+  "author": "David Zhang <david.d.zhang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat deploy"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@typechain/ethers-v6": "^0.5.1",
+    "@typechain/hardhat": "^9.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.0",
+    "hardhat": "^2.22.3",
+    "hardhat-deploy": "^0.12.2",
+    "ts-node": "^10.9.2",
+    "typechain": "^8.3.2",
+    "typescript": "^5.4.5"
+  }
+}
