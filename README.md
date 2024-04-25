@@ -1,6 +1,8 @@
-# erc20-hardhat-template
+# TEST-TOKEN
 
-This repository sets you up with a very simple ERC20 token deployment and testing environment.
+This is for testing only
+
+Learn more at: https://test-token.com/
 
 ## Mainnet addresses
 
