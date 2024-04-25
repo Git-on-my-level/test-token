@@ -2,9 +2,9 @@
 
 This repository sets you up with a very simple ERC20 token deployment and testing environment.
 
-## Usage
-1. Make edits or write your token contract in `contracts`
-2. Modify the deploy scripts in `deploy`
-3. Check your deployment configuration in `hardhat.config.ts`
-4. Populate your deployment keys in `.env`
-5. Deploy to your specified network `yarn deploy --network <your network>`
+## Deployments
+
+| Network          | Address                                    |
+| ---------------- | ------------------------------------------ |
+| Ethereum Mainnet | -                                          |
+| Ethereum Sepolia | 0xbE9056e6ca355859c8993b372E57a2852435B26A |

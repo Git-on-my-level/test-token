@@ -31,8 +31,8 @@ const config: HardhatUserConfig = {
     deployer: {
       default: 0, // here this will by default take the first account as deployer
       // Ethereum
-      ethereum_testnet: "0x55e9877C8e66801313607396e7e563391753f800",
-      ethereum_mainnet: "0x55e9877C8e66801313607396e7e563391753f800",
+      ethereum_testnet: "0xdc5c8fc9aA8101e495BCF7F8a43e8E3E9a1617E2",
+      ethereum_mainnet: "0xdc5c8fc9aA8101e495BCF7F8a43e8E3E9a1617E2",
     },
   },
   // For contract source verification
